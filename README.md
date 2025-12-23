@@ -820,5 +820,5 @@ The example app showcases:
 ## Support
 
 - 📧 Email: support@linkzly.com
-- 📚 Documentation: https://docs.linkzly.com
-- 🐛 Issues: https://github.com/AdsGames24/linkzly-ios-package/issues
+- 📚 Documentation: https://app.linkzly.com
+- 🐛 Issues: https://github.com/MarenTech/linkzly-ios-sdk/issues
