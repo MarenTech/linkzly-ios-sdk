@@ -10,47 +10,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yLMHKmmsS8wvnBHfd/MJS5l+hls=
+		8h4oe57EY7ZeeIHhP4300N2eeF8=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		2UhQU2VPjzPwXNTrHPR5ZIAYWm0=
+		a5/Mu7CXCBJbnoeZTXkLc2HCJFo=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		YzU+PkGsTYtCDtZi6LocZiKg/qg=
+		4rBE2gdG68jyz3F7tjBu66xUEUs=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/EwIa16yEwocX5nlk5EASKdX7XY=
+		rq4B+5792DILSy47BelSpVfwsTU=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YzU+PkGsTYtCDtZi6LocZiKg/qg=
+		4rBE2gdG68jyz3F7tjBu66xUEUs=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		M4S1vIsTYuCO/7kuT4EMH8W5Kpw=
+		+5/srPbMQdoLaCJvHDCobugtn80=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		2UhQU2VPjzPwXNTrHPR5ZIAYWm0=
+		a5/Mu7CXCBJbnoeZTXkLc2HCJFo=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		zv2xM6R0FeIhtHLRVOoDjV0BWLk=
+		prCAmGJAqYluOJ+0cekBYfezldE=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		S5uUrtBfvpBo+HyzEUhorK5f3x0=
+		sVtgf3huCiiCYCKyCLEL/+fTj7c=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		zv2xM6R0FeIhtHLRVOoDjV0BWLk=
+		prCAmGJAqYluOJ+0cekBYfezldE=
 		</data>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b5iNnoO/NfgF3QrsSY761DskPAA=
+		RnpBjWyJ9rlOj+Uh2lAYMFveMFw=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -70,70 +70,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NsuINOzF5BILbgxzC1P6HM9Sc5WA/kV7z+YfuSOMBgo=
+			V65pJeSQG3Omx7lAwwm2t4vgzH9iEl8NqhdXI5fN7GA=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2iuD4t03MR+B35Wn8mD5Dqh42s+n+TikKqOkieYAY8=
+			7kTcFGF6dc+wy0XH0/hsDQRyGYYgf+Tm88vo8KofFKY=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6SZKD7a3u4iWAdVU2taW3iwZN4d34w6REymjgRycP0Q=
+			MU9xjF7+KenVf9V2KnAQTMU+4VfZD4np0ghzTYsdTII=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2iuD4t03MR+B35Wn8mD5Dqh42s+n+TikKqOkieYAY8=
+			7kTcFGF6dc+wy0XH0/hsDQRyGYYgf+Tm88vo8KofFKY=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			clJdRrc3RtEtzSHX2a+rTtmp2bAU7aS2UHxxb7+EXF8=
+			z07bD9mQTzqf4cD11pe8lQZDiUTjEY0LOCx6VNwZRAU=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NsuINOzF5BILbgxzC1P6HM9Sc5WA/kV7z+YfuSOMBgo=
+			V65pJeSQG3Omx7lAwwm2t4vgzH9iEl8NqhdXI5fN7GA=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9a/oqtCl8PF1cl/VjU+cGzC6owyWLBjW84BK/iIDq+k=
+			vjgrVs3tUFqFKdKCsHnvOo9N3A9Q+KQL1wiKedLYGrU=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nCtt9GQxJBuPQt2oDEZiTG+FVzZyWPank7zxuG9ZJkU=
+			nqWd/TYUYyNPXyS/S5oR9r8iG0r58kKHJIk6UINYufs=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9a/oqtCl8PF1cl/VjU+cGzC6owyWLBjW84BK/iIDq+k=
+			vjgrVs3tUFqFKdKCsHnvOo9N3A9Q+KQL1wiKedLYGrU=
 			</data>
 		</dict>
 		<key>Modules/Linkzly.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s/844CBYkNsBkO5TWXW3bPGVF+vKpkpEGUI70HIRkgI=
+			Gkb6e32eWCAFjZjs2k2fNBJaHxGgquVj5xKPXFQ9kSE=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
