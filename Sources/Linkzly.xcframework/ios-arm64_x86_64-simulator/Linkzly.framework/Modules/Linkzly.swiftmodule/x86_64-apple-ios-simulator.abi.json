@@ -3094,13 +3094,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7Linkzly0A3SDKC10onDeepLinkyyyAA0dE4DataC_SSSgtcFZ",
+            "usr": "c:@M@Linkzly@objc(cs)LinkzlySDK(cm)onDeepLink:",
             "mangledName": "$s7Linkzly0A3SDKC10onDeepLinkyyyAA0dE4DataC_SSSgtcFZ",
             "moduleName": "Linkzly",
             "static": true,
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
@@ -3161,13 +3162,14 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7Linkzly0A3SDKC15onUniversalLinkyyy10Foundation3URLV_SDySSypGtcFZ",
+            "usr": "c:@M@Linkzly@objc(cs)LinkzlySDK(cm)onUniversalLink:",
             "mangledName": "$s7Linkzly0A3SDKC15onUniversalLinkyyy10Foundation3URLV_SDySSypGtcFZ",
             "moduleName": "Linkzly",
             "static": true,
             "declAttributes": [
               "Final",
               "AccessControl",
+              "ObjC",
               "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
@@ -4719,8 +4721,7 @@
         "moduleName": "Linkzly",
         "declAttributes": [
           "AccessControl",
-          "ObjC",
-          "RawDocComment"
+          "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
         "hasMissingDesignatedInitializers": true,
@@ -5277,35 +5278,35 @@
     {
       "filePath": "\/Users\/maren\/Documents\/linkzly-projects\/linkzly-sdk-distribution\/ios-distribution\/linkzly-ios-framework\/LinkzlySDK\/LinkzlySDK.swift",
       "kind": "Dictionary",
-      "offset": 9112,
+      "offset": 12171,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/maren\/Documents\/linkzly-projects\/linkzly-sdk-distribution\/ios-distribution\/linkzly-ios-framework\/LinkzlySDK\/LinkzlySDK.swift",
       "kind": "StringLiteral",
-      "offset": 19112,
+      "offset": 24584,
       "length": 30,
       "value": "\"LinkzlyUniversalLinkReceived\""
     },
     {
       "filePath": "\/Users\/maren\/Documents\/linkzly-projects\/linkzly-sdk-distribution\/ios-distribution\/linkzly-ios-framework\/LinkzlySDK\/LinkzlySDK.swift",
       "kind": "StringLiteral",
-      "offset": 19207,
+      "offset": 24679,
       "length": 29,
       "value": "\"LinkzlyDeepLinkDataReceived\""
     },
     {
       "filePath": "\/Users\/maren\/Documents\/linkzly-projects\/linkzly-sdk-distribution\/ios-distribution\/linkzly-ios-framework\/LinkzlySDK\/LinkzlySDK.swift",
       "kind": "StringLiteral",
-      "offset": 19301,
+      "offset": 24773,
       "length": 29,
       "value": "\"LinkzlyServerConfigReceived\""
     },
     {
       "filePath": "\/Users\/maren\/Documents\/linkzly-projects\/linkzly-sdk-distribution\/ios-distribution\/linkzly-ios-framework\/LinkzlySDK\/LinkzlySDK.swift",
       "kind": "Dictionary",
-      "offset": 20652,
+      "offset": 26124,
       "length": 3,
       "value": "[]"
     }

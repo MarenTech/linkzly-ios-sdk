@@ -122,8 +122,8 @@ public typealias UniversalLinkHandler = (_ url: Foundation.URL, _ attributionDat
   }
   #endif
   @objc public static func configure(sdkKey: Swift.String, environment: Linkzly.Environment = .production)
-  public static func onDeepLink(_ handler: @escaping Linkzly.DeepLinkHandler)
-  public static func onUniversalLink(_ handler: @escaping Linkzly.UniversalLinkHandler)
+  @objc public static func onDeepLink(_ handler: @escaping Linkzly.DeepLinkHandler)
+  @objc public static func onUniversalLink(_ handler: @escaping Linkzly.UniversalLinkHandler)
   @objc public static func handleUniversalLink(_ userActivity: Foundation.NSUserActivity) -> Swift.Bool
   @objc(handleUniversalLinkWithURL:) public static func handleUniversalLink(_ url: Foundation.URL) -> Swift.Bool
   #if compiler(>=5.3) && $NonescapableTypes
