@@ -3,12 +3,10 @@
 <plist version="1.0">
 <dict>
     <key>NSPrivacyTracking</key>
-    <false/>
+    <true/>
     <key>NSPrivacyTrackingDomains</key>
     <array>
-        <string>api.linkzly.com</string>
-        <string>staging-api.linkzly.com</string>
-        <string>dev-api.linkzly.com</string>
+        <string>ske.linkzly.com</string>
     </array>
     <key>NSPrivacyCollectedDataTypes</key>
     <array>
